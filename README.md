@@ -7,3 +7,4 @@ Day 3 - March 27, 2022 // learned if/elif/else statements, and/or/not conditiona
 Day 4 - March 28, 2022 // learned how to import the random module, randint, random.random() to generate random floats, created heads or tails generator, LISTS, nested lists. **Project: Rock Paper Scissors Game**
 Day 5 - March 29, 2022 // for loops, for loops w/ range, **Project: Password Generator**
 Day 6 - March 30, 2022 // while loops, functions, many exercises using Reeborg. **Project: Escape the Maze**
+Day 7 - March 31, 2022 // begin **Project: Hangman** will finish on April 1, 2022
