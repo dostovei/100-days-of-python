@@ -8,3 +8,5 @@ Day 4 - March 28, 2022 // learned how to import the random module, randint, rand
 Day 5 - March 29, 2022 // for loops, for loops w/ range, **Project: Password Generator**
 Day 6 - March 30, 2022 // while loops, functions, many exercises using Reeborg. **Project: Escape the Maze**
 Day 7 - March 31, 2022 // begin **Project: Hangman** will finish on April 1, 2022
+Day 8 - April 1, 2022 // using inputs inside of functions, learning parameters and arguments **Project: Caesar Cipher**
+Day 9 - April 2, 2022 // finished **Project: Caesar Cipher**
