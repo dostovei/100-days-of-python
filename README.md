@@ -11,3 +11,4 @@ Day 7 - March 31, 2022 // begin **Project: Hangman** will finish on April 1, 202
 Day 8 - April 1, 2022 // using inputs inside of functions, learning parameters and arguments **Project: Caesar Cipher**
 Day 9 - April 2, 2022 // finished **Project: Caesar Cipher**
 Day 10 - April 3, 2022 // dictionaries, nested dictionaries **Project: The Secret Auction**
+Day 11 - April 4, 2022 // functions with outputs **Project: Calculator**
