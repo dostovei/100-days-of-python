@@ -12,3 +12,4 @@ Day 8 - April 1, 2022 // using inputs inside of functions, learning parameters a
 Day 9 - April 2, 2022 // finished **Project: Caesar Cipher**
 Day 10 - April 3, 2022 // dictionaries, nested dictionaries **Project: The Secret Auction**
 Day 11 - April 4, 2022 // functions with outputs **Project: Calculator**
+Day 12 - April 5, 2022 // Capstone **Project: Blackjack Game** I got a nearly working version with zero hints used. Going to refactor and work through the hints tomorrow!
