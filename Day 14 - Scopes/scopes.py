@@ -29,3 +29,17 @@ def game():
   drink_potion() # drink_potion() is indented enough to be within the local scope of def drink_potion(), so it works when called.
 
 # Namespace == anything I give a name to. ie variables, functions, etc
+
+# There is NO Block Scope in Python
+# Example:
+game_level = 3
+def create_enemy():  
+  enemies = ["Skeleton", "Zombie", "Alien"]
+  if game_level < 5:
+    new_enemy = enemies[0]
+  print(new_enemy) # has to indent inline with if statement
+
+create_enemy()
+
+# ^^^^^^^^^^^^^^^^
+# if, while and for code blocks DO NOT CREATE LOCAL SCOPES
