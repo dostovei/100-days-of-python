@@ -14,4 +14,4 @@ Day 10 - April 3, 2022 // dictionaries, nested dictionaries **Project: The Secre
 Day 11 - April 4, 2022 // functions with outputs **Project: Calculator**
 Day 12 - April 5, 2022 // Capstone **Project: Blackjack Game** I got a nearly working version with zero hints used. Going to refactor and work through the hints tomorrow!
 Day 13 - April 6, 2022 // Worked through hints on **Project: Blackjack Game**, working on improving my notes.
-Day 14 - April 7, 2022 // More note consolidation, namespaces: local vs global scope, Python constraints
+Day 14 - April 7, 2022 // More note consolidation, namespaces: local vs global scope, Python constants
