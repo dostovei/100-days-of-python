@@ -16,3 +16,4 @@ Day 12 - April 5, 2022 // Capstone **Project: Blackjack Game** I got a nearly wo
 Day 13 - April 6, 2022 // Worked through hints on **Project: Blackjack Game**, working on improving my notes.
 Day 14 - April 7, 2022 // More note consolidation, namespaces: local vs global scope, Python constants
 Day 15 - April 8, 2022 // Debugging tips and exercises (shown in debugging.py)
+Day 16 - April 9, 2022 // **Project: Higher/Lower Game**
